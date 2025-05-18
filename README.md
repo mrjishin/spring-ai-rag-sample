@@ -16,6 +16,6 @@ This sample project helps you easily explore how to build a RAG-based AI questio
 ### Ask
 - curl -X POST http://localhost:8080/rag/ask -d "What is Spring Boot?"
 
-<br><br>
+<br/><br/>
 
 Once you receive the desired response, the sample is considered complete.
