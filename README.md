@@ -1,4 +1,4 @@
-# This project is an example of a RAG (Research Augmentation Generation) system built using Spring AI and Qdrant.
+This project is an example of a RAG (Research Augmentation Generation) system built using Spring AI and Qdrant.
 The user inputs a question, vector search finds relevant documents, and LLM generates an answer based on that.
 
 ### Install qdrant
