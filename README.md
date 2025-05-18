@@ -1,13 +1,13 @@
 # spring-ai-rag-sample
 
-### install qdrant
+### Install qdrant
 - docker pull qdrant/qdrant
 - docker run -p 6334:6333 qdrant/qdrant
 
 ### Edit configuration
 - In the application.yml configuration file, replace spring.ai.openai.api-key with yours.
 
-### Start Application
+### Run application
 - ./gradlew bootRun
 
 ### Save document
