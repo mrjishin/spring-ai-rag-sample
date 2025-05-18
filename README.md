@@ -15,3 +15,5 @@
 
 ### Ask
 - curl -X POST http://localhost:8080/rag/ask -d "What is Spring Boot?"
+
+FInish...
