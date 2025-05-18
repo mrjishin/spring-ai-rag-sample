@@ -1,6 +1,6 @@
 ## This sample project helps you easily explore how to build a RAG-based AI question-answering system using Spring AI.
 
-### Install qdrant using docker
+### Install qdrant(Vector Database) using docker
 - docker pull qdrant/qdrant
 - docker run -p 6334:6333 qdrant/qdrant
 
