@@ -1,4 +1,4 @@
-##This sample project helps you easily explore how to build a RAG-based AI question-answering system using Spring AI.
+## This sample project helps you easily explore how to build a RAG-based AI question-answering system using Spring AI.
 
 ### Install qdrant using docker
 - docker pull qdrant/qdrant
