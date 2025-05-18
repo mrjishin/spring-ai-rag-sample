@@ -1,0 +1,14 @@
+spring:
+  application:
+  name: spring-ai-rag-sample
+  ai:
+    openai:
+      api-key: <YOUR_OPENAI_API_KEY>
+    vectorstore:
+      qdrant:
+        host: localhost
+        port: 6334
+#        api-key: <qdrant api key>
+        collection-name: "rag_example"
+        use-tls: false
+        initialize-schema: true
